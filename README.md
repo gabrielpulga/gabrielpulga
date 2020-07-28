@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**gabrielpulga/gabrielpulga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my profile!
 
-Here are some ideas to get you started:
+You can also find me on [Medium](https://medium.com/@gabrielpulga) and [CodeFiction](https://codefiction.net/) where I write articles about software dev. 
+For my professional background, you can check out my [Linkedin](https://www.linkedin.com/in/gabrielpulga).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :computer: **Languages** : HTML, CSS, Javascript, Python, C, Java.
+- :hammer: **Tools** : Visual Studio Code, GitHub, Photoshop, Figma, PyCharm, IntelliJ IDEA, Code::Blocks.
+- :book: **Education** : Currently studying Electronical Engineering at UTFPR in Curitiba and doing bootcamps/courses about software development through online platforms.
+- 📫 **Contact** : You can reach me through e-mail at gabrieelplg@gmail.com.
+
+
