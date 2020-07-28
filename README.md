@@ -3,7 +3,7 @@
 Welcome to my profile!
 
 You can also find me on [Medium](https://medium.com/@gabrielpulga) and [CodeFiction](https://codefiction.net/) where I write articles about software dev. 
-For my professional background, you can check out my [Linkedin](https://www.linkedin.com/in/gabrielpulga).
+For my professional background, you can check out my [Linkedin](https://www.linkedin.com/in/gabrielpulga) profile.
 
 - :computer: **Languages** : HTML, CSS, Javascript, Python, C, Java.
 - :hammer: **Tools** : Visual Studio Code, GitHub, Photoshop, Figma, PyCharm, IntelliJ IDEA, Code::Blocks.
