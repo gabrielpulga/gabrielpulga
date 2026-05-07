@@ -1,3 +1,3 @@
-## hey there 👋
+## Hey there 👋
 
-- 📫 **contact** : gpulga.devops@gmail.com.
+- 📫 **Contact** : gpulga.devops@gmail.com.
